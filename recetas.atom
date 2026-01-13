@@ -1,0 +1,37 @@
+<?xml version="1.0" enconding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+    <tittle>Recetas veganas fáciles</tittle>
+    <link href="https://www.recetasveganasfaciles.com"/>
+    <update>2026-01-13T12:00:00Z</update>
+    <id>https://www.recetasveganasfaciles.com</id>
+    <author>
+        <name>Recetas veganas fáciles otra vez</name>
+    </author>
+
+    <entry>
+        <tittle>Ensalada de garbanzos</tittle>
+        <link href="https://www.recetasveganasfaciles.com/ensalada-garbanzos"/>
+        <id>https://www.recetasveganasfaciles.com/ensalada-garbanzos</id>
+        <update>2026-01-13T08:00:00Z</update>
+        <summary>Una ensalda con garbanzos, tomate, pepino y un toque de limón.</summary>
+    </entry>
+
+    <entry>
+        <tittle>Batido de plátano y avena</tittle>
+        <link href="https://www.recetasveganasfaciles.com/batido-platano-avena"/>
+        <id>https://www.recetasveganasfaciles.com/batido-platano-avena</id>
+        <update>2026-01-13T09:00:00Z</update>
+        <summary>un batido para el desayuno: plátano, avena y leche vegetal.</summary>
+    </entry>
+
+    <entry>
+        <tittle>Tacos de lentejas</tittle>
+        <link href="https://www.recetasveganasfaciles.com/tacos-lentejas"/>
+        <id>https://www.recetasveganasfaciles.com/tacos-lentejas</id>
+        <update>2026-01-13T10:00:00Z</update>
+        <summary>Tacos rellenos de lentejas y verduras frescas.</summary>
+    </entry>
+
+
+
+</feed>
