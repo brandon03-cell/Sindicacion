@@ -1,0 +1,27 @@
+<?xml version="1.0" enconding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <tittle>Recetas veganas f&aacute;ciles</tittle>
+        <link>https://www.recetasveganasfaciles.com</link>
+        <description>Blog con recetas veganas rápidas y 
+        saludables para todos los días</description>
+        <language>es</language>
+        <item>
+            <tittle>Ensalada de garbanzos</tittle>
+            <guid>https://www.recetasveganasfaciles.com/ensalada-garbanzos</guid>
+            <description>Una ensalada con garbanzos, tomate pepino y un toque de limón.</description>
+        </item>
+
+        <item>
+            <tittle>Batido de plátano y avena</tittle>
+            <guid>https://www.recetasveganasfaciles.com/batido-platano-avena</guid>
+            <description>Un batido para el desayuno: plátano, avena y leche vegetal.</description>
+        </item>
+
+        <item>
+            <tittle>Tacos de lentejas</tittle>
+            <guid>https://www.recetasveganasfaciles.com/tacos-lentejas</guid>
+            <description>Tacos rellenos de lentejas y verduras frescas.</description>
+        </item>
+    </channel>
+</rss>
